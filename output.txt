@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52356:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/macuser/IdeaProjects/Assignment 04 Spaced/out/production/Assignment 04 Spaced" Main
+The minimum distance is ~9.950
+The maximum distance is ~13.601
+Process finished with exit code 0
